@@ -1,0 +1,27 @@
+Enter the number of processes: 5  
+Enter the number of resources: 4  
+Enter the Max matrix:  
+0 0 1 2
+2 7 5 0  
+6 6 5 6  
+4 3 5 6  
+0 6 5 2  
+Enter the Allocation matrix:  
+0 0 1 2  
+2 0 0 0  
+0 0 3 4  
+2 3 5 4  
+0 3 3 2  
+Enter the Available resources:  
+2 1 0 0  
+Need Matrix:  
+[0, 0, 0, 0]  
+[0, 7, 5, 0]  
+[6, 6, 2, 2]  
+[2, 0, 0, 2]  
+[0, 3, 2, 0]  
+The system is in a safe state.  
+Safe sequence: [0, 3, 4, 1, 2]  
+Enter the number of instances of type R2 that P3 wants to request:  
+0 1 0 0  
+Request can be granted immediately.  
